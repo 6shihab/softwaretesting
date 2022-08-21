@@ -1,0 +1,3 @@
+Numbers are: 15 5
+Sum=20
+Subtraction of numbers= 10
